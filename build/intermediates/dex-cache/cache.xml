@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Asus\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="D:\Project\Android\SampleCrud\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.2.1_38d7dbf7846e505043e581efa48e4d502247b826\classes.dex" />
+    </item>
+    <item
+        jar="D:\Project\Android\SampleCrud\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="D:\Project\Android\SampleCrud\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.2.1_5bedf7929335af45f34f380ea6a4c2b801dcd7d8\classes.dex" />
+    </item>
+    <item
+        jar="D:\Project\Android\SampleCrud\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="D:\Project\Android\SampleCrud\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.2.1_7439df2fa15c16b182f721c84f5c20224066d2ed\classes.dex" />
+    </item>
+    <item
+        jar="D:\Project\Android\SampleCrud\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3a3996a909bcf8ff0f335840f5be0da556240030">
+        <dex dex="D:\Project\Android\SampleCrud\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b2f1813162756bbbcfc19ecfa624765504813bce\classes.dex" />
+    </item>
+    <item
+        jar="D:\Project\Android\SampleCrud\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="D:\Project\Android\SampleCrud\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.2.1_9db7a54bcd826095307280dd10d6f86f3406b940\classes.dex" />
+    </item>
+    <item
+        jar="D:\Project\Android\SampleCrud\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="cd5a2834ec93ccb32dd2d4e93ea87cdcf38ce482">
+        <dex dex="D:\Project\Android\SampleCrud\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_eb42e51d47df446cb1862f2e4ad845c8561df80c\classes.dex" />
+    </item>
+    <item
+        jar="D:\Project\Android\SampleCrud\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="D:\Project\Android\SampleCrud\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.2.1_d33f17372f3e7790c7687777abafaa2d2d5a512a\classes.dex" />
+    </item>
+    <item
+        jar="D:\Project\Android\SampleCrud\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="D:\Project\Android\SampleCrud\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.2.1_1eeda8d103f8bdf59d119971222335f148d88651\classes.dex" />
+    </item>
+
+</items>
